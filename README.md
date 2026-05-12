@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://co.pinterest.com/pin/37506609391388172/">
+  <img src="https://raw.githubusercontent.com/payarez/payarez/main/banners/banner-1.jpg">
 </p>
 
 ---
@@ -64,13 +64,33 @@
 
 ---
 
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PrimeNG-009688?style=for-the-badge"/>
+</p>
+
+---
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
+
+---
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=payarez&theme=algolia" alt="candida18"  /></p>
 
 ---
 
-# ⚠️ Disclaimer
-
-This repository and all related content are intended strictly for educational purposes and authorized environments only.
-
----
