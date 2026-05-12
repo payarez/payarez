@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/payarez/payarez/main/banners/banner-1.jpg">
+  <img src="https://raw.githubusercontent.com/payarez/payarez/main/banners/x1.png">
 </p>
 
 ---
