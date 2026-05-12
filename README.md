@@ -16,17 +16,18 @@
 
 ## 👨‍💻 About Me
 
-```bash
-💻 Systems Engineering Student at Universidad de La Guajira
-🛡️ Focused on Defensive Cybersecurity & Blue Team
-🔍 Learning Threat Detection, Monitoring & Incident Response
-🐧 Linux enthusiast and cybersecurity labs practitioner
-⚡ Interested in SOC Analysis, Hardening and Security Research
-📚 Currently improving networking, Linux and Python skills
-🚀 Building my cybersecurity portfolio through practical labs
-```
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
----
+- 💻 Systems Engineering Student at Universidad de La Guajira
+- 🛡️ Focused on Defensive Cybersecurity & Blue Team
+- 🔍 Learning Threat Detection, Monitoring & Incident Response
+- 🐧 Linux enthusiast and cybersecurity labs practitioner
+- ⚡ Interested in SOC Analysis, Hardening and Security Research
+- 📚 Currently improving networking, Linux and Python skills
+- 🚀 Building my cybersecurity portfolio through practical labs
+
+
+<br>
 
 ## 🛠️ Technologies & Tools
 
@@ -89,7 +90,13 @@
 </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=payarez&theme=algolia" alt="candida18"  /></p>
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=payarez&theme=rising-sun&hide_border=true" />
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
 
 ---
+
 
