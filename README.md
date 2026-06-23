@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1F2937&height=220&section=header&text=Esneider%20Payarez&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20|%20Backend%20Developer%20|%20Networking&descAlignY=55" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Networking+Enthusiast;Linux+%7C+Cloud+%7C+Cybersecurity;Building+Secure+and+Scalable+Systems;Always+Learning+Something+New" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:1F2937&height=180&section=header&text=Esneider%20Payarez&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineering%20|%20Backend%20Developer%20|%20Networking&descAlignY=55" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=Backend+Developer;Networking+Enthusiast;Linux+%7C+Cloud+%7C+Cybersecurity;Building+Secure+and+Scalable+Systems;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
