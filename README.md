@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=Backend+Developer;Networking+Enthusiast;Linux+%7C+Cloud+%7C+Cybersecurity;Building+Secure+and+Scalable+Systems;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/payarez">
-    <img src="https://img.shields.io/github/followers/payarez?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=payarez&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-</p>
-
-
 ---
 
 ## 👨‍💻 About Me
